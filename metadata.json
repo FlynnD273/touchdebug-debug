@@ -1,0 +1,8 @@
+{
+  "name": "Touchpad debug",
+  "description": "Debug touchpad events",
+  "uuid": "touchdebug@debug",
+  "shell-version": [
+    "46"
+  ]
+}
